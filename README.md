@@ -16,4 +16,4 @@ Once finished a random password will generate for you.
 
 https://imjord.github.io/PasswordGenerator
 
-![Password gen pic](./assets/images/site.png?raw=true "PasswordGen")
+![Password gen webpic](./assets/images/site.PNG?raw=true "PasswordGen")
